@@ -1,4 +1,4 @@
-## Kode with Klossy Airbnb Lab
+## Airbnb Lab
 
 Airbnb is a web application that allows people to rent their own homes or apartments to travelers. It started in San Francisco as an alternative to costly hotels for people traveling to academic conferences. The original web application was built using Ruby! Today, Airbnb is in 191 countries, and has hosted over 160 million guests. Its projected revenue by 2020 is over $3 billion.
 <center><img src="https://media.giphy.com/media/yoJC2K01KzhoUYgiRy/giphy.gif" width="200" height="200"></center>
